@@ -1,0 +1,8 @@
+plugin/
+spell/
+swap/
+undo/
+*.swp
+*.swo
+*~
+.netrwhist
