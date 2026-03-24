@@ -17,6 +17,7 @@ vim.g.maplocalleader = "\\"
 -- エディタ設定
 vim.opt.number = true
 vim.opt.relativenumber = true
+vim.opt.cursorline = true
 
 -- lazy.nvim セットアップ
 require("lazy").setup({
